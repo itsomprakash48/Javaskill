@@ -1,19 +1,30 @@
-import java.util.*;
+import  java.util.*;
 public class Que02 {
 	public static void main(String[] args) {
-		// print the largest of 2 numbers 
-		Scanner sc = new Scanner( System.in);
+		// income tax calculator
 		
-		int num1 = sc.nextInt();
-		int num2 = sc.nextInt();
+		Scanner sc = new Scanner(System.in);
 		
-		if (num1> num2) {
-			System.out.println(num1+" greater ");
+		int income = sc.nextInt();
+		int tax;
+		
+		if ( income <= 500000){
+			tax = 0;
+			
+		}
+		
+		else  if (income > 500000 && income <=1000000){
+			tax = (int) (income * 0.2);
+			
 		}
 		
 		else {
-			System.out.println(num2+ "  barka ");
+			 tax = (int) (income*0.3) ;
 		}
+		
+	
+		System.out.println("Your income tax : " + 
+	tax);
 		
 	}
 }

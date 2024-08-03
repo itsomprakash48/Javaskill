@@ -1,4 +1,4 @@
-public class Main {
+public class JavaBasic04 {
 	public static void main(String[] args) {
 		// primitive data type (literalas) 
 		System.out.println(" primitive data type literals where literals is an constant value where we can assigh so" ); 

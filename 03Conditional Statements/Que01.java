@@ -1,21 +1,19 @@
-import  java.util.*;
-
-public class Main {
+import java.util.*;
+public class Que01 {
 	public static void main(String[] args) {
-		// print the number is odd or even
-		Scanner sc = new Scanner(System.in);
+		// print the largest of 2 numbers 
+		Scanner sc = new Scanner( System.in);
 		
-		int num = sc.nextInt();
+		int num1 = sc.nextInt();
+		int num2 = sc.nextInt();
 		
-		if ( num % 2 == 0){
-			System.out.println(" even");
-			
+		if (num1> num2) {
+			System.out.println(num1+" greater ");
 		}
+		
 		else {
-			System.out.println(" odd ");
+			System.out.println(num2+ "  barka ");
 		}
-		
-		
 		
 	}
 }

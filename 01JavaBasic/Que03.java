@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main {
+public class Que03 {
 	public static void main(String[] args) {
 /*
 Enter cost of 3 items from the user (using float data type) - a pencil, a pen and
