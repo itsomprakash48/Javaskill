@@ -50,20 +50,12 @@ public class Proj01 {
 		}
 		
 		
-		else {
-			System.out.println("bahut bubak ho beta tum ");
-		}
+		//else {
+		//	System.out.println("bahut bubak ho beta tum ");
+		//}
 		
 	
 	}
-	
-}m.out.println("bahut bubak ho beta tum ");
-		}
-		
-	
-	}
+
 	
 }	
-	}
-	
-}}

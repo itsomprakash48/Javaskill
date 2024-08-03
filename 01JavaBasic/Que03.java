@@ -7,9 +7,10 @@ an eraser. You have to output the total cost of the items back to the user as th
 (Add on : You can also try adding 18% gst tax to the items in the bill as an advanced problem)
 
 */
+	@SuppressWarnings("resource")
 	Scanner sc = new Scanner(System.in);
 	
-	System.out.println("Java mini bill ouput");
+	System.out.println("Java mini bill output");
 	
 	System.out.println("Name of items : ");
 	
@@ -31,18 +32,18 @@ an eraser. You have to output the total cost of the items back to the user as th
 	System.out.print("price of "+it3+ " : ");
 	int ip3 = sc.nextInt();
 	
-	// total amout 
+	// total amount 
 	int sum = ip1+ip2+ip3;
 	
 	// 18% gst amount of total 
-	int exgst = (sum*18) / 100 ;
+	int exist = (sum*18) / 100 ;
 
 	
 
 	System.out.println("Amount of items is : "+sum);
-	System.out.println("Total tax on items "+exgst);
+	System.out.println("Total tax on items "+exist);
 	
-	System.out.println("Total amount to be paid :" + (sum+exgst) );
+	System.out.println("Total amount to be paid :" + (sum+exist) );
 	
 				
 	}

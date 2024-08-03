@@ -1,0 +1,154 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ArithmaticOp",
+            "request": "launch",
+            "mainClass": "ArithmaticOp",
+            "projectName": "Javaskill_eaf53dad"
+        },
+        {
+            "type": "java",
+            "name": "IfElse",
+            "request": "launch",
+            "mainClass": "IfElse",
+            "projectName": "Javaskill_eaf53dad"
+        },
+        {
+            "type": "java",
+            "name": "JavaBasic",
+            "request": "launch",
+            "mainClass": "JavaBasic",
+            "projectName": "Javaskill_eaf53dad"
+        },
+        {
+            "type": "java",
+            "name": "JavaBasic01",
+            "request": "launch",
+            "mainClass": "JavaBasic01",
+            "projectName": "Javaskill_eaf53dad"
+        },
+        {
+            "type": "java",
+            "name": "JavaBasic03",
+            "request": "launch",
+            "mainClass": "JavaBasic03",
+            "projectName": "Javaskill_eaf53dad"
+        },
+        {
+            "type": "java",
+            "name": "JavaBasic04",
+            "request": "launch",
+            "mainClass": "JavaBasic04",
+            "projectName": "Javaskill_eaf53dad"
+        },
+        {
+            "type": "java",
+            "name": "JavaBasic05",
+            "request": "launch",
+            "mainClass": "JavaBasic05",
+            "projectName": "Javaskill_eaf53dad"
+        },
+        {
+            "type": "java",
+            "name": "JavaBasic06",
+            "request": "launch",
+            "mainClass": "JavaBasic06",
+            "projectName": "Javaskill_eaf53dad"
+        },
+        {
+            "type": "java",
+            "name": "JavaBasic07",
+            "request": "launch",
+            "mainClass": "JavaBasic07",
+            "projectName": "Javaskill_eaf53dad"
+        },
+        {
+            "type": "java",
+            "name": "LoopBasic",
+            "request": "launch",
+            "mainClass": "LoopBasic",
+            "projectName": "Javaskill_eaf53dad"
+        },
+        {
+            "type": "java",
+            "name": "Proj01",
+            "request": "launch",
+            "mainClass": "Proj01",
+            "projectName": "Javaskill_eaf53dad"
+        },
+        {
+            "type": "java",
+            "name": "Que",
+            "request": "launch",
+            "mainClass": "Que",
+            "projectName": "Javaskill_eaf53dad"
+        },
+        {
+            "type": "java",
+            "name": "Que01",
+            "request": "launch",
+            "mainClass": "Que01",
+            "projectName": "Javaskill_eaf53dad"
+        },
+        {
+            "type": "java",
+            "name": "Que02",
+            "request": "launch",
+            "mainClass": "Que02",
+            "projectName": "Javaskill_eaf53dad"
+        },
+        {
+            "type": "java",
+            "name": "Que03",
+            "request": "launch",
+            "mainClass": "Que03",
+            "projectName": "Javaskill_eaf53dad"
+        },
+        {
+            "type": "java",
+            "name": "WhileLoop",
+            "request": "launch",
+            "mainClass": "WhileLoop",
+            "projectName": "Javaskill_eaf53dad"
+        },
+        {
+            "type": "java",
+            "name": "que01",
+            "request": "launch",
+            "mainClass": "que01",
+            "projectName": "Javaskill_eaf53dad"
+        },
+        {
+            "type": "java",
+            "name": "que02",
+            "request": "launch",
+            "mainClass": "que02",
+            "projectName": "Javaskill_eaf53dad"
+        },
+        {
+            "type": "java",
+            "name": "que03",
+            "request": "launch",
+            "mainClass": "que03",
+            "projectName": "Javaskill_eaf53dad"
+        },
+        {
+            "type": "java",
+            "name": "que04",
+            "request": "launch",
+            "mainClass": "que04",
+            "projectName": "Javaskill_eaf53dad"
+        }
+    ]
+}
