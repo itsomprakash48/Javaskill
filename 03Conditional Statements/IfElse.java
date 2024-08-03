@@ -13,7 +13,7 @@ public class IfElse {
 		} 
 		
 		else {
-			System.out.println(" beta hai tu abhi ");
+			System.out.println(" beta hai tu abhi mera ");
 	
 		}
 		
