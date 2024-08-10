@@ -1,14 +1,24 @@
-public class que08 {
+import java.util.*;
+
+
+class que08 {
     public static void main(String[] args) {
-        int number = 10899;
-        int reverse = 0;
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Hello world!");
         
-        while (number != 0) {
-            int digit = number % 10;  // Last digit nikalna
-            reverse = reverse * 10 + digit;  // Reverse number mein add karna
-            number = number / 10;  // Last digit ko remove karna
+        int num_ip = sc.nextInt();  // Number of inputs
+        
+        for (int i = 0; i < num_ip; i++) {  // Declare `i` as an int and add braces
+            int userip = sc.nextInt();  // Get user input
+            
+            if (userip % 10 == 0) {
+                System.out.println("multiple of ten");
+                break;  // Exit the loop if the number is a multiple of ten
+            }
+            
+            System.out.println(userip);  // Print the input
         }
         
-        System.out.println("Reverse of the given number is: " + reverse);
+        sc.close();  // Close the scanner to prevent resource leaks
     }
 }

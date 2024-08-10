@@ -1,8 +1,14 @@
 public class que07 {
     public static void main(String[] args) {
-        // 10 times print karne ke liye loop
-        for (int i = 0; i < 10; i++) {
-            System.out.println("Hello World!");
+        int number = 10899;
+        int reverse = 0;
+        
+        while (number != 0) {
+            int digit = number % 10;  // Last digit nikalna
+            reverse = reverse * 10 + digit;  // Reverse number mein add karna
+            number = number / 10;  // Last digit ko remove karna
         }
+        
+        System.out.println("Reverse of the given number is: " + reverse);
     }
 }

@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "continue_state",
+            "request": "launch",
+            "mainClass": "continue_state",
+            "projectName": "Javaskill_eaf53dad"
+        },
+        {
+            "type": "java",
+            "name": "Break_state",
+            "request": "launch",
+            "mainClass": "Break_state",
+            "projectName": "Javaskill_eaf53dad"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
