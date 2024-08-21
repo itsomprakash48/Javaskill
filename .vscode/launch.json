@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "syntaxBasic",
+            "request": "launch",
+            "mainClass": "syntaxBasic",
+            "projectName": "Javaskill_eaf53dad"
+        },
+        {
+            "type": "java",
+            "name": "Pattern01",
+            "request": "launch",
+            "mainClass": "Pattern01",
+            "projectName": "Javaskill_eaf53dad"
+        },
+        {
+            "type": "java",
+            "name": "Main01",
+            "request": "launch",
+            "mainClass": "Main01",
+            "projectName": "Javaskill_eaf53dad"
+        },
+        {
+            "type": "java",
+            "name": "Print_star",
+            "request": "launch",
+            "mainClass": "Print_star",
+            "projectName": "Javaskill_eaf53dad"
+        },
+        {
+            "type": "java",
+            "name": "Print_Star",
+            "request": "launch",
+            "mainClass": "Print_Star",
+            "projectName": "Javaskill_eaf53dad"
+        },
+        {
+            "type": "java",
+            "name": "PrintStar",
+            "request": "launch",
+            "mainClass": "PrintStar",
+            "projectName": "Javaskill_eaf53dad"
+        },
+        {
+            "type": "java",
+            "name": "que05",
+            "request": "launch",
+            "mainClass": "que05",
+            "projectName": "Javaskill_eaf53dad"
+        },
+        {
+            "type": "java",
+            "name": "que06",
+            "request": "launch",
+            "mainClass": "que06",
+            "projectName": "Javaskill_eaf53dad"
+        },
+        {
+            "type": "java",
             "name": "continue_state",
             "request": "launch",
             "mainClass": "continue_state",

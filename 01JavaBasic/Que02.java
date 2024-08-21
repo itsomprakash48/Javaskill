@@ -20,6 +20,6 @@ square.
 		System.out.println("The are of the square is "+area);
 		
 		
-		
+		sc.close();
 	}
 }

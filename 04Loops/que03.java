@@ -20,6 +20,6 @@ public class que03 {
 		
 	
 		
-		
+		sc.close();
 	}
 }

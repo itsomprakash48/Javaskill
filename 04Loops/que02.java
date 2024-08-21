@@ -11,5 +11,6 @@ public class que02 {
 			System.out.println(num);
 			num++;
 		}
+		sc.close();
 	}
 }

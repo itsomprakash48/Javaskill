@@ -1,4 +1,4 @@
-public class ArithmaticOp {
+public class arithOp {
 	public static void main(String[] args) {
 		
 		// binary ( jisme sirf 2 operands hote hai)
@@ -64,5 +64,4 @@ public class ArithmaticOp {
 		
 		
 	}
-}
 }

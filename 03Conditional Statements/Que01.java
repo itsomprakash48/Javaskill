@@ -14,6 +14,6 @@ public class Que01 {
 		else {
 			System.out.println(num2+ "  barka ");
 		}
-		
+		sc.close();
 	}
 }

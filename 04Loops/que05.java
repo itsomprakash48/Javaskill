@@ -13,6 +13,5 @@ class que05 {
         num = num / 10;
         
     }
-            
-    }
+ 
 }

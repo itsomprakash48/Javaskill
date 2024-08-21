@@ -54,7 +54,7 @@ public class Proj01 {
 		//	System.out.println("bahut bubak ho beta tum ");
 		//}
 		
-	
+		sc.close();
 	}
 
 	

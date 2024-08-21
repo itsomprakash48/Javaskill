@@ -27,7 +27,7 @@ these 3 numbers.
 		
 		
 		
-		
+		sc.close();
 		
 		
 	}
