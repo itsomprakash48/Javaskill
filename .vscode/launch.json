@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "syntaxWithParameter",
+            "request": "launch",
+            "mainClass": "syntaxWithParameter",
+            "projectName": "Javaskill_eaf53dad"
+        },
+        {
+            "type": "java",
             "name": "syntaxBasic",
             "request": "launch",
             "mainClass": "syntaxBasic",

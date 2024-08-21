@@ -22,5 +22,6 @@ public class JavaBasic05 {
 		nextShort
 		nextLong
 		*/
+		sc.close();
 	}
 }

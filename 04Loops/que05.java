@@ -1,6 +1,6 @@
 //import java.util.Scanner;
 //import java.lang.*;
-import java.io.*;
+//import java.io.*;
 
 // The main method must be in a class named "Main".
 class que05 {
@@ -12,6 +12,8 @@ class que05 {
         System.out.print(last_digit);
         num = num / 10;
         
+    }
+
     }
  
 }

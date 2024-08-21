@@ -25,6 +25,6 @@ public class Que02 {
 	
 		System.out.println("Your income tax : " + 
 	tax);
-		
+		sc.close();
 	}
 }

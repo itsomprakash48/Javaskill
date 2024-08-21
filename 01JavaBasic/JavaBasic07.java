@@ -11,5 +11,6 @@ public class JavaBasic07 {
 		Float area = Q*rad*rad;
 		
 		System.out.println("The area of circle is = "+area);
+		sc.close();
 	}
 }
