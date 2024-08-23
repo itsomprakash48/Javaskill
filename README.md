@@ -46,60 +46,22 @@ This repository is dedicated to all the Java-related code, DSA implementations, 
 - 📂 Folder: `Java/`
 - 💻 **Content**: 
   - Basic Syntax and Data Types
-  - Object-Oriented Programming (OOP) Concepts
-  - Exception Handling
-  - File Handling
-  - Collections Framework
+  - Operators
+  - Conditional statement 
+  - Loop
+  - Basic Pattern
+  - Function and Method
+  - .... Learning 📚
 
 ## 🔑 DSA Implementations
 - 📂 Folder: `DSA/`
 - 🧠 **Content**:
-  - Array Manipulation
-  - Linked Lists
-  - Stack and Queue Implementations
-  - Sorting and Searching Algorithms
-  - Trees and Graphs
+  - Learning....
 
 ## 🌟 Projects
 - 📂 Folder: `Projects/`
 - 🛠️ **Content**:
   - **Calculator**: A basic calculator built using Java with support for basic arithmetic operations.
+  - **Exam-punish** : punishment accroding to Marks obatained in final exam ; 
   - *(More projects coming soon!)*
 
-## 🎓 Certifications
-| **Course** | **Platform** | **Date** |
-|------------|--------------|----------|
-| Java Programming | Great Learning Academy | July 2024 |
-| Introduction to Computer Networking | Simplilearn SkillUp | August 2024 |
-
-## 📅 Future Plans
-- 🔜 **Advanced Java**:
-  - Explore JavaFX for building GUI applications.
-  - Learn about multithreading and concurrency.
-- 🔜 **DSA Mastery**:
-  - Practice advanced algorithms and problem-solving techniques.
-  - Participate in competitive programming.
-- 🔜 **Web Development**:
-  - Learn HTML, CSS, and JavaScript.
-  - Build full-stack applications using frameworks like Spring and React.
-- 🔜 **Computer Networking**:
-  - Deepen my understanding of network protocols and security.
-  - Explore cloud computing and networking in cloud environments.
-- 🔜 **Cybersecurity**:
-  - Learn about ethical hacking and penetration testing.
-  - Explore cybersecurity tools and best practices.
-
-## 📬 Get in Touch
-- 💼 **LinkedIn**: [Open Profile](https://www.linkedin.com/in/om-prakash-56598521a/)
-- 👻 **Snapchat**: [Open Profile](https://snapchat.com/its_omprakash48/)
-- 📸 **Instagram**: [Open Profile](https://www.instagram.com/its_omprakash48/)
-- 📘 **Facebook**: [Open Profile](https://www.facebook.com/itsomprakash84)
-- 🐙 **GitHub**: [Open Profile ](https://github.com/omprakash84)
-- 📧 **Email**: omprakash908987@example.com
-
-## 💬 Quote
-*"The only way to do great work is to love what you do."* — Steve Jobs
-
----
-
-*Happy Coding!* 😄
