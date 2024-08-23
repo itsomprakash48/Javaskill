@@ -1,6 +1,6 @@
 # 🚀 Welcome to Javaskill Repository! 👨‍💻
 
-![Profile Picture](https://via.placeholder.com/150) <!-- Replace with your profile picture URL -->
+![Profile Picture]([https://via.placeholder.com/150](https://github.com/omprakash84/Javaskill/blob/main/WhatsApp%20Image%202024-08-23%20at%2011.18.32%20AM.jpeg)) <!-- Replace with your profile picture URL -->
 
 Hello! I'm **Om Prakash**, a passionate programmer currently pursuing my B.Tech at IES College of Technology. This repository is my digital space where I document my journey in mastering Java, Data Structures & Algorithms (DSA), and much more. Let’s dive into what you can find here!
 
