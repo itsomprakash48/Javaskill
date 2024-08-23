@@ -95,7 +95,7 @@ This repository is dedicated to all the Java-related code, DSA implementations, 
 - 📸 **Instagram**: [Open Profile](https://www.instagram.com/its_omprakash48/)
 - 📘 **Facebook**: [Open Profile](https://www.facebook.com/itsomprakash84)
 - 🐙 **GitHub**: [Open Profile ](https://github.com/omprakash84)
-- 📧 **Email**: your-omprakash908987@example.com
+- 📧 **Email**: omprakash908987@example.com
 
 ## 💬 Quote
 *"The only way to do great work is to love what you do."* — Steve Jobs
