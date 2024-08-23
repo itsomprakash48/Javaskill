@@ -1,59 +1,26 @@
-# Project Title
+# Javaskill
 
-A short description about the project and/or client.
+## Overview
+
+Javaskill is a Java skills assessment tool designed to help users evaluate their proficiency in Java programming. It includes various challenges and exercises that cover fundamental and advanced concepts.
+
+## Features
+
+- **Comprehensive Assessments**: A variety of questions that test different aspects of Java programming.
+- **User-Friendly Interface**: Easy navigation and clear instructions for users.
+- **Performance Tracking**: Users can track their progress and identify areas for improvement.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
 ### Prerequisites
 
-The things you need before installing the software.
-
-* You need this
-* And you need this
-* Oh, and don't forget this
+- Java Development Kit (JDK) 8 or higher
+- Maven (for dependency management)
 
 ### Installation
 
-A step by step guide that will tell you how to get the development environment up and running.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/omprakash84/Javaskill.git
 
-```
-$ First step
-$ Another step
-$ Final step
-```
-
-## Usage
-
-A few examples of useful commands and/or tasks.
-
-```
-$ First example
-$ Second example
-$ And keep this in mind
-```
-
-## Deployment
-
-Additional notes on how to deploy this on a live or release system. Explaining the most important branches, what pipelines they trigger and how to update the database (if anything special).
-
-### Server
-
-* Live:
-* Release:
-* Development:
-
-### Branches
-
-* Master:
-* Feature:
-* Bugfix:
-* etc...
-
-## Additional Documentation and Acknowledgments
-
-* Project folder on server:
-* Confluence link:
-* Asana board:
-* etc...
+   
