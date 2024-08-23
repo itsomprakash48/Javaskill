@@ -20,12 +20,11 @@
   [![GitHub Streak](https://streak-stats.demolab.com?user=omprakash84&theme=tokyonight-duo&hide_border=true&exclude_days=Sun)](https://git.io/streak-stats)
   ## 📬 Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/yourprofile)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-prakash-56598521a/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/its_omprakash48/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/itsomprakash84)
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat&logo=github&logoColor=white)](https://github.com/omprakash84)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-omprakash908987@example.com)
 
 
 ## 📂 Repository Overview
@@ -91,12 +90,12 @@ This repository is dedicated to all the Java-related code, DSA implementations, 
   - Explore cybersecurity tools and best practices.
 
 ## 📬 Get in Touch
-- 💼 **LinkedIn**: [Your LinkedIn Profile](#)
-- 🐦 **Twitter**: [Your Twitter Handle](#)
-- 📸 **Instagram**: [Your Instagram Profile](#)
-- 📘 **Facebook**: [Your Facebook Profile](#)
-- 🐙 **GitHub**: [Omprakash84](https://github.com/omprakash84)
-- 📧 **Email**: your-email@example.com
+- 💼 **LinkedIn**: [Open Profile](https://www.linkedin.com/in/om-prakash-56598521a/)
+- 👻 **Snapchat**: [Open Profile](https://snapchat.com/its_omprakash48/)
+- 📸 **Instagram**: [Open Profile](https://www.instagram.com/its_omprakash48/)
+- 📘 **Facebook**: [Open Profile](https://www.facebook.com/itsomprakash84)
+- 🐙 **GitHub**: [Open Profile ](https://github.com/omprakash84)
+- 📧 **Email**: your-omprakash908987@example.com
 
 ## 💬 Quote
 *"The only way to do great work is to love what you do."* — Steve Jobs
