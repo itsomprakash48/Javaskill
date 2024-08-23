@@ -1,8 +1,14 @@
 public class binomialCoefficient {
 
+    /* 
+     * Binomial coefficient
+     * n
+     *  C        =  n!/ r!(n-r)!
+     *   r
+     */
    /* 
    Long method by me 😅
-   public static int binoCoe(int n , int r ){
+   public static int binCoe(int n , int r ){
 
         // n input - factorial
         int fn = 1;
@@ -29,6 +35,14 @@ public class binomialCoefficient {
 
     */
 
+
+     /* 
+     * Binomial coefficient
+     * n
+     *  C        =  n!/ r!(n-r)!
+     *   r
+     */
+
     public static int factorial(int n){
 
         int f = 1;
@@ -39,19 +53,20 @@ public class binomialCoefficient {
         return f;  //factorial of n
     }
 
-    public static int binoCoeff(int n, int r){
+    public static int binCoe(int n, int r){
         int fact_n = factorial(n);
         int fact_r = factorial(r);
         int fact_nmr = factorial(n-r);
 
-        int binoCoeff = fact_n / (fact_r*fact_nmr);
-        return binoCoeff;
+        int binCoe = fact_n / (fact_r*fact_nmr);
+        return binCoe;
     }
     
         
 
     public static void main(String[] args) {
-        System.out.println(binoCoeff(5, 2));
+        System.out.println(binCoe(5, 2));
+
         
     }
 }
