@@ -10,7 +10,7 @@
       💻 <strong>Programming Languages:</strong>
       <ul>
         <li><img src="https://img.shields.io/badge/Java-%23007396.svg?style=flat&logo=java&logoColor=white"> - Currently Learning</li>
-        <li><img src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white"> - Basic Intermediate Level</li>
+        <li><img src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white"> - Intermediate Level</li>
         <li><img src="https://img.shields.io/badge/DSA-%2300599C.svg?style=flat&logo=java&logoColor=white"> - In Progress</li>
         <li><img src="https://img.shields.io/badge/Cyber%20Security-%23023e8a.svg?style=flat&logo=cybersecurity&logoColor=white"> - In Progress</li>
         <li><img src="https://img.shields.io/badge/Computer%20Networking-%230197e6.svg?style=flat&logo=networking&logoColor=white"> - In Progress</li>
