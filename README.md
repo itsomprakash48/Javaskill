@@ -1,11 +1,8 @@
-<!-- Profile Section -->
-<div style="display: flex; align-items: center;">
-  <!-- Rounded Profile Picture -->
-  <img src="https://i.postimg.cc/7LJHrTJ6/Whats-App-Image-2024-08-23-at-11-18-32-AM-1.jpg" alt="Profile Picture" style="border-radius: 50%; width: 150px; height: 150px; margin-right: 20px;">
 
 
   <!-- Personal Details -->
   <div>
+    <img class="rounded-circle" alt="avatar1" src="https://i.postimg.cc/dtFJ0PBj/Whats-App-Image-2024-08-23-at-11-18-32-AM.jpg" />
     <h1>Om Prakash</h1> 
     <p>
       🧑‍🎓 <strong>Education:</strong> 1st Year B.Tech, IES College of Technology<br>
