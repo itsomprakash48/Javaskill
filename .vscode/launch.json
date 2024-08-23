@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "binomialCoefficient",
+            "request": "launch",
+            "mainClass": "binomialCoefficient",
+            "projectName": "Javaskill_eaf53dad"
+        },
+        {
+            "type": "java",
+            "name": "factorial",
+            "request": "launch",
+            "mainClass": "factorial",
+            "projectName": "Javaskill_eaf53dad"
+        },
+        {
+            "type": "java",
+            "name": "productOfab",
+            "request": "launch",
+            "mainClass": "productOfab",
+            "projectName": "Javaskill_eaf53dad"
+        },
+        {
+            "type": "java",
+            "name": "callByValue",
+            "request": "launch",
+            "mainClass": "callByValue",
+            "projectName": "Javaskill_eaf53dad"
+        },
+        {
+            "type": "java",
             "name": "syntaxWithParameter",
             "request": "launch",
             "mainClass": "syntaxWithParameter",
