@@ -3,9 +3,10 @@
   <!-- Rounded Profile Picture -->
   <img src="https://i.postimg.cc/7LJHrTJ6/Whats-App-Image-2024-08-23-at-11-18-32-AM-1.jpg" alt="Profile Picture" style="border-radius: 50%; width: 150px; height: 150px; margin-right: 20px;">
 
+
   <!-- Personal Details -->
   <div>
-    <h1>Om Prakash</h1>
+    <h1>Om Prakash</h1> 
     <p>
       🧑‍🎓 <strong>Education:</strong> 1st Year B.Tech, IES College of Technology<br>
       🏆 <strong>Certifications:</strong> Java Programming (Great Learning Academy), Computer Networking (Simplilearn SkillUp)<br>
@@ -18,7 +19,8 @@
         <li><img src="https://img.shields.io/badge/Computer%20Networking-%230197e6.svg?style=flat&logo=networking&logoColor=white"> - In Progress</li>
       </ul>
     </p>
-
+        
+  [![GitHub Streak](https://streak-stats.demolab.com?user=omprakash84&theme=tokyonight-duo&hide_border=true&exclude_days=Sun)](https://git.io/streak-stats)
   ## 📬 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
