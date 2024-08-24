@@ -21,5 +21,7 @@ public class convertBinaryToDecimal {
         int num = sc.nextInt();
         int binnum = decimal(num);
         System.out.println("The decimal form of " + num +" is :"+binnum);
+
+        sc.close();
     }
 }

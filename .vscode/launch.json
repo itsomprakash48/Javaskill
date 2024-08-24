@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "convertDecimalToBinary",
+            "request": "launch",
+            "mainClass": "convertDecimalToBinary",
+            "projectName": "Javaskill_eaf53dad"
+        },
+        {
+            "type": "java",
             "name": "convertBinaryToDecimal",
             "request": "launch",
             "mainClass": "convertBinaryToDecimal",
