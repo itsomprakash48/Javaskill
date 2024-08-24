@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "convertBinaryToDecimal",
+            "request": "launch",
+            "mainClass": "convertBinaryToDecimal",
+            "projectName": "Javaskill_eaf53dad"
+        },
+        {
+            "type": "java",
             "name": "functionOverloading",
             "request": "launch",
             "mainClass": "functionOverloading",
