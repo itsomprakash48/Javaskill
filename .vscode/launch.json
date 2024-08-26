@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "arrayBasic",
+            "request": "launch",
+            "mainClass": "Array.arrayBasic",
+            "projectName": "Javaskill_eaf53dad"
+        },
+        {
+            "type": "java",
+            "name": "arrayBasic",
+            "request": "launch",
+            "mainClass": "arrayBasic",
+            "projectName": "Javaskill_eaf53dad"
+        },
+        {
+            "type": "java",
             "name": "convertDecimalToBinary",
             "request": "launch",
             "mainClass": "convertDecimalToBinary",
