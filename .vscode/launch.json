@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "inOutUpd",
+            "request": "launch",
+            "mainClass": "Array.inOutUpd",
+            "projectName": "Javaskill_eaf53dad"
+        },
+        {
+            "type": "java",
             "name": "arrayBasic",
             "request": "launch",
             "mainClass": "Array.arrayBasic",
