@@ -71,7 +71,7 @@ This repository is dedicated to all the Java-related code, DSA implementations, 
 6. [Get in Touch](#get-in-touch)
 
 ## 🔧 Java Programs
-- 📂 Folder: `Java/`
+- 📂 Folder: `01-06 `
 - 💻 **Content**: 
   - Basic Syntax and Data Types
   - Operators
@@ -79,11 +79,13 @@ This repository is dedicated to all the Java-related code, DSA implementations, 
   - Loop
   - Basic Pattern
   - Function and Method
-  - .... Learning 📚
+  - Adavnce pattern 
+  - ..📚
 
 ## 🔑 DSA Implementations
 - 📂 Folder: `DSA/`
-- 🧠 **Content**:
+- 💻 **Content**:
+  -Array
   - Learning....
 
 ## 🌟 Projects
