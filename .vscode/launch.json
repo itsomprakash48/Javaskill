@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "passArrAsArgu",
+            "request": "launch",
+            "mainClass": "Array.passArrAsArgu",
+            "projectName": "Javaskill_eaf53dad"
+        },
+        {
+            "type": "java",
             "name": "inOutUpd",
             "request": "launch",
             "mainClass": "Array.inOutUpd",
