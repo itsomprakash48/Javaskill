@@ -1,6 +1,7 @@
 package Array;
 
-public class getLargestNum {
+public class LargestNum {
+
     public static int getLargest(int number[]){
         int largest = Integer.MIN_VALUE;
 
