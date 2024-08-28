@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "getLargestNum",
+            "request": "launch",
+            "mainClass": "Array.getLargestNum",
+            "projectName": "Javaskill_eaf53dad"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Array.Main",
+            "projectName": "Javaskill_eaf53dad"
+        },
+        {
+            "type": "java",
+            "name": "Arraycc",
+            "request": "launch",
+            "mainClass": "Array.Arraycc",
+            "projectName": "Javaskill_eaf53dad"
+        },
+        {
+            "type": "java",
+            "name": "largestNumber",
+            "request": "launch",
+            "mainClass": "Array.largestNumber",
+            "projectName": "Javaskill_eaf53dad"
+        },
+        {
+            "type": "java",
             "name": "passArrAsArgu",
             "request": "launch",
             "mainClass": "Array.passArrAsArgu",
