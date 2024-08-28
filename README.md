@@ -18,13 +18,13 @@
     </p>
 
 <!--  Start  -->
-<div align="center">
+<div align="left">
     <table align="center">
     <tr border="none">
     <td width="30%" height="auto" align="left">   
  </div>
         
-<div align="left">
+<div align="center">
      <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=itsomprakash48&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 </td>
@@ -68,8 +68,6 @@ This repository is dedicated to all the Java-related code, DSA implementations, 
 2. [DSA Implementations](#dsa-implementations)
 3. [Projects](#projects)
 4. [Certifications](#certifications)
-5. [Future Plans](#future-plans)
-6. [Get in Touch](#get-in-touch)
 
 ## 🔧 Java Programs
 - 📂 Folder: `01-06 `
