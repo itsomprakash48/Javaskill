@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "getLargestNum",
+            "request": "launch",
+            "mainClass": "getLargestNum",
+            "projectName": "Javaskill_eaf53dad"
+        },
+        {
+            "type": "java",
             "name": "getLargestNumbe",
             "request": "launch",
             "mainClass": "Array.getLargestNumbe",
