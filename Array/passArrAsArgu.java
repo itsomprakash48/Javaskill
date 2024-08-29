@@ -32,7 +32,7 @@ public class passArrAsArgu {
             
         }
 
-
+        sc.close();
     }
     
 }
