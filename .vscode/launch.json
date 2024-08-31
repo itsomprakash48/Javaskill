@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "revAnArray",
+            "request": "launch",
+            "mainClass": "Array.revAnArray",
+            "projectName": "Javaskill_eaf53dad"
+        },
+        {
+            "type": "java",
             "name": "getLargestNum",
             "request": "launch",
             "mainClass": "getLargestNum",
