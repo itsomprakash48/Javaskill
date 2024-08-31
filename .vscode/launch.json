@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "pairInArray",
+            "request": "launch",
+            "mainClass": "Array.pairInArray",
+            "projectName": "Javaskill_eaf53dad"
+        },
+        {
+            "type": "java",
             "name": "revAnArray",
             "request": "launch",
             "mainClass": "Array.revAnArray",
