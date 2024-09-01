@@ -3,7 +3,7 @@
   <!-- Personal Details -->
   <div>
     <img class="rounded-circle" alt="avatar1" src="https://i.postimg.cc/dtFJ0PBj/Whats-App-Image-2024-08-23-at-11-18-32-AM.jpg" />
-    <h1>Om Prakash</h1> 
+    <h1>Om Prakash </h1> 
     <p>
       🧑‍🎓 <strong>Education:</strong> 1st Year B.Tech, IES College of Technology<br>
       🏆 <strong>Certifications:</strong> Java Programming (Great Learning Academy), Computer Networking (Simplilearn SkillUp)<br>
