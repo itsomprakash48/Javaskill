@@ -31,7 +31,7 @@ public class subArray {
         //  - [8] - [8,10]
         //  - [10]
         
-        // * 3 nested loop requre
+        // * 3 nested loop require
         // 1 loop - finding start
         // 2 loop - finding end
         // 1 loop - printing number between start and end
