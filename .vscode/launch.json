@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MaxSubarraySumPrefix",
+            "request": "launch",
+            "mainClass": "Array.MaxSubarraySumPrefix",
+            "projectName": "Javaskill_eaf53dad"
+        },
+        {
+            "type": "java",
+            "name": "maxSubArray",
+            "request": "launch",
+            "mainClass": "Array.maxSubArray",
+            "projectName": "Javaskill_eaf53dad"
+        },
+        {
+            "type": "java",
             "name": "subArray",
             "request": "launch",
             "mainClass": "Array.subArray",
