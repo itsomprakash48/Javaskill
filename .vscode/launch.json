@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "bubbleShort",
+            "request": "launch",
+            "mainClass": "Sorting.bubbleShort",
+            "projectName": "Javaskill_eaf53dad"
+        },
+        {
+            "type": "java",
+            "name": "bubbleShort",
+            "request": "launch",
+            "mainClass": "Array.bubbleShort",
+            "projectName": "Javaskill_eaf53dad"
+        },
+        {
+            "type": "java",
+            "name": "bubbleshort",
+            "request": "launch",
+            "mainClass": "Array.bubbleshort",
+            "projectName": "Javaskill_eaf53dad"
+        },
+        {
+            "type": "java",
+            "name": "bubbleshort",
+            "request": "launch",
+            "mainClass": "Sorting.bubbleshort",
+            "projectName": "Javaskill_eaf53dad"
+        },
+        {
+            "type": "java",
             "name": "MaxSubarraySumPrefix",
             "request": "launch",
             "mainClass": "Array.MaxSubarraySumPrefix",
