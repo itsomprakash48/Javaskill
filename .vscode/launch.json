@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "selectionShort",
+            "request": "launch",
+            "mainClass": "Sorting.selectionShort",
+            "projectName": "Javaskill_eaf53dad"
+        },
+        {
+            "type": "java",
             "name": "bubbleShort",
             "request": "launch",
             "mainClass": "Sorting.bubbleShort",
