@@ -24,10 +24,12 @@ public class selectionShort{
         } 
     }
 	public static void main(String[] args) {
+        System.out.println("SELECTION SHORT");
 		int arr[] = {5,4,1,2,3};
 		selectionSort(arr);
 		printArr(arr);
 		
+        System.out.println();
 		
 	}
 }

@@ -84,7 +84,7 @@ This repository is dedicated to all the Java-related code, DSA implementations, 
 - 📂 Folder: `DSA/`
 - 💻 **Content**:
   - Array
-  - Learning ....
+  - Learning ...
 
 ## 🌟 Projects
 - 📂 Folder: `Projects/`
